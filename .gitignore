@@ -4,7 +4,7 @@ env/
 .env
 
 # Application data
-recordings/
+# We are intentionally tracking the recordings folder as requested
 
 # Python cache
 __pycache__/
