@@ -1,6 +1,0 @@
-pyaudiowpatch
-numpy
-pydub
-imageio-ffmpeg
-audioop-lts
-noisereduce
